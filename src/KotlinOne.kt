@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    //1. Variables(var)
+    //1. Variables(var) - Dynamic
     //Here, the variable can be reassigned
     //(a) with data types
     //Integer
